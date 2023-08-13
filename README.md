@@ -32,10 +32,15 @@ The repository is organized into folders, with each folder corresponding to a sp
 
 ```bash
 ├── p_175_combine_two_tables
+├── p_181_employees_earning_more_than_their_managers
+├── p_182_duplicate_emails
+├── p_183_customers_who_never_order
 ├── p_196_drop_duplicated_emails
-├── p_511_game_play_analysis_I
+├── p_511_game_play_analysis_i
 ├── p_577_employee_bonus
-├── p_584_find_customer_refree
+├── p_584_find_customer_referee
+├── p_1068_product_sales_analysis_i
+├── p_1407_top_travellers
 └── ...
 ```
 
