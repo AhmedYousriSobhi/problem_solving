@@ -36,6 +36,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_182_duplicate_emails
 ├── p_183_customers_who_never_order
 ├── p_196_drop_duplicated_emails
+├── p_197_rising_temperature
 ├── p_511_game_play_analysis_i
 ├── p_577_employee_bonus
 ├── p_584_find_customer_referee
