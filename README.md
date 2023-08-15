@@ -40,6 +40,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_511_game_play_analysis_i
 ├── p_577_employee_bonus
 ├── p_584_find_customer_referee
+├── p_586_custoemr_placing_the_largest_number_of_orders
 ├── p_1068_product_sales_analysis_i
 ├── p_1407_top_travellers
 └── ...
