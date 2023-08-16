@@ -41,6 +41,10 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_577_employee_bonus
 ├── p_584_find_customer_referee
 ├── p_586_custoemr_placing_the_largest_number_of_orders
+├── p_595_big_countries
+├── p_596_classess_more_than_5_strudent
+├── p_607_sales_person
+├── p_610_triangle_judgement
 ├── p_1068_product_sales_analysis_i
 ├── p_1407_top_travellers
 └── ...
