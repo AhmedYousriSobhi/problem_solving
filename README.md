@@ -35,7 +35,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_181_employees_earning_more_than_their_managers
 ├── p_182_duplicate_emails
 ├── p_183_customers_who_never_order
-├── p_196_drop_duplicated_emails
+├── p_196_delete_duplicated_emails
 ├── p_197_rising_temperature
 ├── p_511_game_play_analysis_i
 ├── p_577_employee_bonus
@@ -45,8 +45,11 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_596_classess_more_than_5_strudent
 ├── p_607_sales_person
 ├── p_610_triangle_judgement
+├── p_619_biggest_single_number
 ├── p_1068_product_sales_analysis_i
 ├── p_1407_top_travellers
+├── p_2082_the_number_of_rich_customers
+├── p_2356_number_of_unique_subjects_taught_by_each_teacher
 └── ...
 ```
 
