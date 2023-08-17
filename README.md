@@ -46,6 +46,8 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_607_sales_person
 ├── p_610_triangle_judgement
 ├── p_619_biggest_single_number
+├── p_620_not_boring_movies
+├── p_627_swap_salary
 ├── p_1068_product_sales_analysis_i
 ├── p_1407_top_travellers
 ├── p_2082_the_number_of_rich_customers
