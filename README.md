@@ -31,27 +31,27 @@ I enjoy exploring the nuances of different languages and adapting my solutions a
 The repository is organized into folders, with each folder corresponding to a specific problem. Here's a typical structure:
 
 ```bash
-├── p_175_combine_two_tables
-├── p_181_employees_earning_more_than_their_managers
-├── p_182_duplicate_emails
-├── p_183_customers_who_never_order
-├── p_196_delete_duplicated_emails
-├── p_197_rising_temperature
-├── p_511_game_play_analysis_i
-├── p_577_employee_bonus
-├── p_584_find_customer_referee
-├── p_586_custoemr_placing_the_largest_number_of_orders
-├── p_595_big_countries
-├── p_596_classess_more_than_5_strudent
-├── p_607_sales_person
-├── p_610_triangle_judgement
-├── p_619_biggest_single_number
-├── p_620_not_boring_movies
-├── p_627_swap_salary
-├── p_1068_product_sales_analysis_i
-├── p_1407_top_travellers
-├── p_2082_the_number_of_rich_customers
-├── p_2356_number_of_unique_subjects_taught_by_each_teacher
+├── p_175_combine_two_tables [SQL]
+├── p_181_employees_earning_more_than_their_managers [SQL]
+├── p_182_duplicate_emails [SQL]
+├── p_183_customers_who_never_order [SQL]
+├── p_196_delete_duplicated_emails [SQL]
+├── p_197_rising_temperature [SQL]
+├── p_511_game_play_analysis_i [SQL]
+├── p_577_employee_bonus [SQL]
+├── p_584_find_customer_referee [SQL]
+├── p_586_custoemr_placing_the_largest_number_of_orders [SQL]
+├── p_595_big_countries [SQL]
+├── p_596_classess_more_than_5_strudent [SQL]
+├── p_607_sales_person [SQL]
+├── p_610_triangle_judgement [SQL]
+├── p_619_biggest_single_number [SQL]
+├── p_620_not_boring_movies [SQL]
+├── p_627_swap_salary [SQL]
+├── p_1068_product_sales_analysis_i [SQL]
+├── p_1407_top_travellers [SQL]
+├── p_2082_the_number_of_rich_customers [SQL]
+├── p_2356_number_of_unique_subjects_taught_by_each_teacher [SQL]
 └── ...
 ```
 
