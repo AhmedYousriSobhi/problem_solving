@@ -1,5 +1,4 @@
 # Problem Solving
-
 Welcome to my Problem Solving repository! In this repository, you'll find a collection of problems I've solved using various programming languages. Each problem has its own folder containing the problem statement, input/output samples, and my solution.
 
 ## Table of Contents
@@ -66,3 +65,5 @@ This repository is licensed under the MIT License, which means you're free to us
 Thank you for visiting my Problem Solving repository! Feel free to explore the problems and solutions. If you find something helpful or have questions, don't hesitate to reach out.
 
 Happy coding! 🚀
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
