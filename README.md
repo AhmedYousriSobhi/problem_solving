@@ -50,6 +50,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1050_actors_and_directors _who_cooperated_at_least_three_times [SQL]
 ├── p_1068_product_sales_analysis_i [SQL]
 ├── p_1075_project_employees_i [SQL]
+├── p_1084_sales_analysis_iii [SQL]
 ├── p_1407_top_travellers [SQL]
 ├── p_2082_the_number_of_rich_customers [SQL]
 ├── p_2356_number_of_unique_subjects_taught_by_each_teacher [SQL]
