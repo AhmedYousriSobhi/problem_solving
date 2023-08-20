@@ -51,6 +51,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1068_product_sales_analysis_i [SQL]
 ├── p_1075_project_employees_i [SQL]
 ├── p_1084_sales_analysis_iii [SQL]
+├── p_1141_user_activity_for_the_past_30_days i [SQL]
 ├── p_1407_top_travellers [SQL]
 ├── p_2082_the_number_of_rich_customers [SQL]
 ├── p_2356_number_of_unique_subjects_taught_by_each_teacher [SQL]
