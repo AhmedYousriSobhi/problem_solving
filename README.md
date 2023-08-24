@@ -69,7 +69,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ## Contributing
 While this repository primarily showcases my own solutions, I'm open to collaboration and learning from others. If you have a more optimal solution to any of the problems or want to add problems from different domains, feel free to open a pull request. Constructive feedback is always welcome!
 
-<a name='License></a>
+<a name='License'></a>
 ## License
 This repository is licensed under the MIT License, which means you're free to use the code here for your own learning and projects. However, please note that the problem statements themselves might have their own usage terms.
 
