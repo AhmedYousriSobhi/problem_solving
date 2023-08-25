@@ -31,6 +31,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 
 ```bash
 ├── p_175_combine_two_tables [SQL]
+├── p_176_second_highest_salary [SQL]
 ├── p_181_employees_earning_more_than_their_managers [SQL]
 ├── p_182_duplicate_emails [SQL]
 ├── p_183_customers_who_never_order [SQL]
@@ -59,6 +60,8 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1251_average_selling_price [SQL]
 ├── p_1378_replace_employee_iD_with_the_unique_identifier [SQL]
 ├── p_1407_top_travellers [SQL]
+├── p_1581_customer_who_visited_but_did_not_make_any_transaction [SQL]
+├── p_1661_average_time_of_process_per_machine [SQL]
 ├── p_1683_invalid_tweets [SQL]
 ├── p_1757_recyclable_and_low_fat_products [SQL]
 ├── p_1890_the_latest_login_in_2020 [SQL]
