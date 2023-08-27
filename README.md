@@ -7,6 +7,8 @@ Welcome to my Problem Solving repository! In this repository, you'll find a coll
   - [About](#about)
   - [Languages](#languages)
   - [Structure](#structure)
+  - [Knowledge](#knowledge)
+    - [SQL](#sql)
   - [Contributing](#contributing)
   - [License](#license)
   
@@ -32,7 +34,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ```bash
 ├── p_0175_combine_two_tables [Easy] [SQL]
 ├── p_0176_second_highest_salary [Medium] [SQL]
-├── p_0181_employees_earning_more_than_their_managers [SQL]
+├── p_0181_employees_earning_more_than_their_managers [Easy] [SQL]
 ├── p_0182_duplicate_emails [Easy] [SQL]
 ├── p_0183_customers_who_never_order [Easy] [SQL]
 ├── p_0196_delete_duplicated_emails [Easy] [SQL]
@@ -59,15 +61,21 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1211_queries_quality_and_percentage [Easy] [SQL]
 ├── p_1251_average_selling_price [Easy] [SQL]
 ├── p_1280_students_and_examinations [Easy] [SQL]
+├── p_1327_list_the_products_ordered_in_a_period [Easy] [SQL]
 ├── p_1378_replace_employee_iD_with_the_unique_identifier [Easy] [SQL]
 ├── p_1407_top_travellers [Easy] [SQL]
+├── p_1484_group_sold_products_by_the_date [Easy] [SQL]
+├── p_1517_find_users_with_valid_e_mails [Easy] [SQL]
+├── p_1527_patients_with_a_condtion [Easy] [SQL]
 ├── p_1581_customer_who_visited_but_did_not_make_any_transaction [Easy] [SQL]
 ├── p_1633_percentage_of_users_attended_a_contest [Easy] [SQL]
 ├── p_1661_average_time_of_process_per_machine [Easy] [SQL]
+├── p_1667_fix_names_in_a_table [Easy] [SQL]
 ├── p_1683_invalid_tweets [Easy] [SQL]
 ├── p_1731_the_number_of_employees_which_report_to_each_employee [Easy] [SQL]
 ├── p_1729_find_followers_count [Easy] [SQL]
 ├── p_1757_recyclable_and_low_fat_products [Easy] [SQL]
+├── p_1789_primary_department_for_each_employee [Easy] [SQL]
 ├── p_1890_the_latest_login_in_2020 [Easy] [SQL]
 ├── p_1965_employees_with_missing_information [Easy] [SQL]
 ├── p_1978_employees_whose_manager_left_the_company [Easy] [SQL]
@@ -75,6 +83,12 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_2356_number_of_unique_subjects_taught_by_each_teacher [Easy] [SQL]
 └── ...
 ```
+<a name="Knowledge"></a>
+## Knowledge
+### SQL
+GROUP_CONCAT : [1484]
+
+REGEXP : [1517]
 
 <a name="Contributing"></a>
 ## Contributing
