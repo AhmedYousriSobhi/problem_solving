@@ -40,6 +40,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_0196_delete_duplicated_emails [Easy] [SQL]
 ├── p_0197_rising_temperature [Easy] [SQL]
 ├── p_0511_game_play_analysis_i [Easy] [SQL]
+├── p_0570_managers_with_at_least_5_direct_reports [Medium] [SQL]
 ├── p_0577_employee_bonus [Easy] [SQL]
 ├── p_0584_find_customer_referee [Easy] [SQL]
 ├── p_0586_custoemr_placing_the_largest_number_of_orders [Easy] [SQL]
@@ -57,7 +58,9 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1141_user_activity_for_the_past_30_days i [Easy] [SQL]
 ├── p_1148_article_view_i [Easy] [SQL]
 ├── p_1173_immediate_food_delivery_i [Easy] [SQL]
+├── p_1174_immediate_food_delivery_ii [Medium] [SQL]
 ├── p_1179_reformat_department_table [Easy] [SQL]
+├── p_1193_monthly_transaction_i [Medium] [SQL]
 ├── p_1211_queries_quality_and_percentage [Easy] [SQL]
 ├── p_1251_average_selling_price [Easy] [SQL]
 ├── p_1280_students_and_examinations [Easy] [SQL]
@@ -77,6 +80,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1757_recyclable_and_low_fat_products [Easy] [SQL]
 ├── p_1789_primary_department_for_each_employee [Easy] [SQL]
 ├── p_1890_the_latest_login_in_2020 [Easy] [SQL]
+├── p_1934_confirmation_rate [Medium] [SQL]
 ├── p_1965_employees_with_missing_information [Easy] [SQL]
 ├── p_1978_employees_whose_manager_left_the_company [Easy] [SQL]
 ├── p_2082_the_number_of_rich_customers [Easy] [SQL]
@@ -89,6 +93,8 @@ The repository is organized into folders, with each folder corresponding to a sp
 GROUP_CONCAT : [1484]
 
 REGEXP : [1517]
+
+ROW_NUMBER / OVER Cluase: [1174]
 
 <a name="Contributing"></a>
 ## Contributing
