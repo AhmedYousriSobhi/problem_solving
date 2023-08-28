@@ -53,6 +53,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_0619_biggest_single_number [Easy] [SQL]
 ├── p_0620_not_boring_movies [Easy] [SQL]
 ├── p_0627_swap_salary [Easy] [SQL]
+├── p_0626_exchange_seats [Medium] [SQL]
 ├── p_1045_customers_who_bought_all_products [Medium] [SQL]
 ├── p_1050_actors_and_directors _who_cooperated_at_least_three_times [Easy] [SQL]
 ├── p_1068_product_sales_analysis_i [Easy] [SQL]
@@ -71,6 +72,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1251_average_selling_price [Easy] [SQL]
 ├── p_1280_students_and_examinations [Easy] [SQL]
 ├── p_1327_list_the_products_ordered_in_a_period [Easy] [SQL]
+├── p_1341_movie_rating [Medium] [SQL]
 ├── p_1378_replace_employee_iD_with_the_unique_identifier [Easy] [SQL]
 ├── p_1407_top_travellers [Easy] [SQL]
 ├── p_1484_group_sold_products_by_the_date [Easy] [SQL]
@@ -86,6 +88,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1757_recyclable_and_low_fat_products [Easy] [SQL]
 ├── p_1789_primary_department_for_each_employee [Easy] [SQL]
 ├── p_1890_the_latest_login_in_2020 [Easy] [SQL]
+├── p_1907_count_salary_categories [Medium] [SQL]
 ├── p_1934_confirmation_rate [Medium] [SQL]
 ├── p_1965_employees_with_missing_information [Easy] [SQL]
 ├── p_1978_employees_whose_manager_left_the_company [Easy] [SQL]
@@ -99,11 +102,13 @@ The repository is organized into folders, with each folder corresponding to a sp
 - GROUP_CONCAT : [1484]
 - REGEXP : [1517]
 - ROW_NUMBER / OVER Cluase: [1174]
-- LAG / LEAD : [180]
+- LAG / LEAD : [180, 626]
 - FIRST_VALUE : [1164]
 - COALESCE : [1164]
 - OVER : [1204]
 - Weighted_sum : [1204]
+- UNION : [1341, 1907]
+- FIRST_VALUE: [1341]
 
 <a name="Contributing"></a>
 ## Contributing
