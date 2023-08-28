@@ -34,6 +34,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ```bash
 ├── p_0175_combine_two_tables [Easy] [SQL]
 ├── p_0176_second_highest_salary [Medium] [SQL]
+├── p_0180_consecutive_numbers [Medium] [SQL]
 ├── p_0181_employees_earning_more_than_their_managers [Easy] [SQL]
 ├── p_0182_duplicate_emails [Easy] [SQL]
 ├── p_0183_customers_who_never_order [Easy] [SQL]
@@ -52,6 +53,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_0619_biggest_single_number [Easy] [SQL]
 ├── p_0620_not_boring_movies [Easy] [SQL]
 ├── p_0627_swap_salary [Easy] [SQL]
+├── p_1045_customers_who_bought_all_products [Medium] [SQL]
 ├── p_1050_actors_and_directors _who_cooperated_at_least_three_times [Easy] [SQL]
 ├── p_1068_product_sales_analysis_i [Easy] [SQL]
 ├── p_1070_product_sales_analysis_iii [Medium] [SQL]
@@ -59,10 +61,12 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── p_1084_sales_analysis_iii [Easy] [SQL]
 ├── p_1141_user_activity_for_the_past_30_days i [Easy] [SQL]
 ├── p_1148_article_view_i [Easy] [SQL]
+├── p_1164_product_price_at_a_given_date [Medium] [SQL]
 ├── p_1173_immediate_food_delivery_i [Easy] [SQL]
 ├── p_1174_immediate_food_delivery_ii [Medium] [SQL]
 ├── p_1179_reformat_department_table [Easy] [SQL]
 ├── p_1193_monthly_transaction_i [Medium] [SQL]
+├── p_1204_last_person_to_fit_in_the_bus [Medium] [SQL]
 ├── p_1211_queries_quality_and_percentage [Easy] [SQL]
 ├── p_1251_average_selling_price [Easy] [SQL]
 ├── p_1280_students_and_examinations [Easy] [SQL]
@@ -97,6 +101,16 @@ GROUP_CONCAT : [1484]
 REGEXP : [1517]
 
 ROW_NUMBER / OVER Cluase: [1174]
+
+LAG / LEAD : [180]
+
+FIRST_VALUE : [1164]
+
+COALESCE : [1164]
+
+OVER : [1204]
+
+Weighted_sum : [1204]
 
 <a name="Contributing"></a>
 ## Contributing
