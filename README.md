@@ -96,21 +96,14 @@ The repository is organized into folders, with each folder corresponding to a sp
 <a name="Knowledge"></a>
 ## Knowledge
 ### SQL
-GROUP_CONCAT : [1484]
-
-REGEXP : [1517]
-
-ROW_NUMBER / OVER Cluase: [1174]
-
-LAG / LEAD : [180]
-
-FIRST_VALUE : [1164]
-
-COALESCE : [1164]
-
-OVER : [1204]
-
-Weighted_sum : [1204]
+- GROUP_CONCAT : [1484]
+- REGEXP : [1517]
+- ROW_NUMBER / OVER Cluase: [1174]
+- LAG / LEAD : [180]
+- FIRST_VALUE : [1164]
+- COALESCE : [1164]
+- OVER : [1204]
+- Weighted_sum : [1204]
 
 <a name="Contributing"></a>
 ## Contributing
