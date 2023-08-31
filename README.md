@@ -32,6 +32,8 @@ I enjoy exploring the nuances of different languages and adapting my solutions a
 The repository is organized into folders, with each folder corresponding to a specific problem. Here's a typical structure:
 
 ```bash
+├── hackerRank
+|   ├── revising_the_select_query_i [Easy] [SQL]
 ├── leetCode
 |   ├── p_0175_combine_two_tables [Easy] [SQL]
 |   ├── p_0176_second_highest_salary [Medium] [SQL]
@@ -105,8 +107,6 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_1978_employees_whose_manager_left_the_company [Easy] [SQL]
 |   ├── p_2082_the_number_of_rich_customers [Easy] [SQL]
 |   ├── p_2356_number_of_unique_subjects_taught_by_each_teacher [Easy] [SQL]
-├── hackerRank
-|   ├── revising_the_select_query_i
 └── ...
 ```
 <a name="Knowledge"></a>
