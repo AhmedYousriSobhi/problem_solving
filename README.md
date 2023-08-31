@@ -36,7 +36,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_0175_combine_two_tables [Easy] [SQL]
 |   ├── p_0176_second_highest_salary [Medium] [SQL]
 |   ├── p_0180_consecutive_numbers [Medium] [SQL]
-|   ├── p_0181_employees_earning_more_than_their_managers [Easy] [SQL]
+|   ├── p_0181_employees_earning_more_than_their_managers [Easy] [SQL, Pandas]
 |   ├── p_0182_duplicate_emails [Easy] [SQL]
 |   ├── p_0183_customers_who_never_order [Easy] [SQL]
 |   ├── p_0184_department_highest_salary [Medium] [SQL]
