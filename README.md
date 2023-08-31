@@ -105,24 +105,26 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_1978_employees_whose_manager_left_the_company [Easy] [SQL]
 |   ├── p_2082_the_number_of_rich_customers [Easy] [SQL]
 |   ├── p_2356_number_of_unique_subjects_taught_by_each_teacher [Easy] [SQL]
+├── hackerRank
+|   ├── revising_the_select_query_i
 └── ...
 ```
 <a name="Knowledge"></a>
 ## Knowledge
 ### SQL
-- GROUP_CONCAT : [1484]
-- REGEXP : [1517]
-- ROW_NUMBER / OVER Cluase: [1174]
-- LAG / LEAD : [180, 626]
-- FIRST_VALUE : [1164]
-- COALESCE : [1164]
-- OVER : [1204, 1321]
-- Weighted_sum "Calculation of moving average" : [1204, 1321]
-- UNION : [602, 1341, 1907]
-- FIRST_VALUE: [1341]
-- DENSE_RANK: [184, 185]
-- Special Filter Condition: [585]
-- Convert columns to rows using UNION: [1795]
+- GROUP_CONCAT : leetCode [1484]
+- REGEXP : leetCode [1517]
+- ROW_NUMBER / OVER Cluase: leetCode [1174]
+- LAG / LEAD : leetCode [180, 626]
+- FIRST_VALUE : leetCode [1164]
+- COALESCE : leetCode [1164]
+- OVER : leetCode [1204, 1321]
+- Weighted_sum "Calculation of moving average" : leetCode [1204, 1321]
+- UNION : leetCode [602, 1341, 1907]
+- FIRST_VALUE: leetCode [1341]
+- DENSE_RANK: leetCode [184, 185]
+- Special Filter Condition: leetCode [585]
+- Convert columns to rows using UNION: leetCode [1795]
 
 <a name="Contributing"></a>
 ## Contributing
