@@ -33,14 +33,22 @@ The repository is organized into folders, with each folder corresponding to a sp
 
 ```bash
 ├── hackerRank
-|   ├── revising_the_select_query_i [Easy] [SQL]
+|   ├── basicSelect
+|   |   ├── revising_the_select_query_i [Easy] [SQL]
+|   |   ├── revising_the_select_query_ii [Easy] [SQL]
+|   |   ├── select_all [Easy] [SQL]
+|   |   ├── japanese_cities_attributes [Easy] [SQL]
+|   |   ├── japanese_cities_names [Easy] [SQL]
+|   |   ├── weather_observation_station_1 [Easy] [SQL]
+|   |   ├── weather_observation_station_3 [Easy] [SQL]
+|   |   ├── weather_observation_station_4 [Easy] [SQL]
 ├── leetCode
 |   ├── p_0175_combine_two_tables [Easy] [SQL]
 |   ├── p_0176_second_highest_salary [Medium] [SQL]
 |   ├── p_0180_consecutive_numbers [Medium] [SQL]
 |   ├── p_0181_employees_earning_more_than_their_managers [Easy] [SQL, Pandas]
-|   ├── p_0182_duplicate_emails [Easy] [SQL]
-|   ├── p_0183_customers_who_never_order [Easy] [SQL]
+|   ├── p_0182_duplicate_emails [Easy] [SQL, Pandas]
+|   ├── p_0183_customers_who_never_order [Easy] [SQL, Pandas]
 |   ├── p_0184_department_highest_salary [Medium] [SQL]
 |   ├── p_0185_department_top_three_salaries [Hard] [SQL]
 |   ├── p_0196_delete_duplicated_emails [Easy] [SQL]
