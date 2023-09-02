@@ -42,6 +42,10 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   ├── weather_observation_station_1 [Easy] [SQL]
 |   |   ├── weather_observation_station_3 [Easy] [SQL]
 |   |   ├── weather_observation_station_4 [Easy] [SQL]
+|   |   ├── weather_observation_station_5 [Easy] [SQL]
+|   |   ├── weather_observation_station_6 [Easy] [SQL]
+|   |   ├── weather_observation_station_7 [Easy] [SQL]
+|   |   ├── weather_observation_station_8 [Easy] [SQL]
 ├── leetCode
 |   ├── p_0175_combine_two_tables [Easy] [SQL]
 |   ├── p_0176_second_highest_salary [Medium] [SQL]
@@ -51,7 +55,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_0183_customers_who_never_order [Easy] [SQL, Pandas]
 |   ├── p_0184_department_highest_salary [Medium] [SQL]
 |   ├── p_0185_department_top_three_salaries [Hard] [SQL]
-|   ├── p_0196_delete_duplicated_emails [Easy] [SQL]
+|   ├── p_0196_delete_duplicated_emails [Easy] [SQL, Pandas]
 |   ├── p_0197_rising_temperature [Easy] [SQL]
 |   ├── p_0511_game_play_analysis_i [Easy] [SQL]
 |   ├── p_0550_game_play_analysis_iv [Medium] [SQL]
@@ -121,7 +125,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ## Knowledge
 ### SQL
 - GROUP_CONCAT : leetCode [1484]
-- REGEXP : leetCode [1517]
+- REGEXP : leetCode [1517], hackerrank [weather_observation_station_6]
 - ROW_NUMBER / OVER Cluase: leetCode [1174]
 - LAG / LEAD : leetCode [180, 626]
 - FIRST_VALUE : leetCode [1164]
@@ -133,6 +137,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 - DENSE_RANK: leetCode [184, 185]
 - Special Filter Condition: leetCode [585]
 - Convert columns to rows using UNION: leetCode [1795]
+- RIGHT/SUBSTR: hackerrank [weather_observation_station_7]
 
 <a name="Contributing"></a>
 ## Contributing
