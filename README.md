@@ -33,7 +33,12 @@ The repository is organized into folders, with each folder corresponding to a sp
 
 ```bash
 ├── hackerRank
+|   ├── advancedSelect
+|   |   ├── type_of_triangle [Easy] [SQL]
 |   ├── basicSelect
+|   |   ├── employee_names [Easy] [SQL]
+|   |   ├── employee_salaries [Easy] [SQL]
+|   |   ├── higher_than_75_marks [Easy] [SQL]
 |   |   ├── revising_the_select_query_i [Easy] [SQL]
 |   |   ├── revising_the_select_query_ii [Easy] [SQL]
 |   |   ├── select_all [Easy] [SQL]
@@ -72,7 +77,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_0595_big_countries [Easy] [SQL, Pandas]
 |   ├── p_0596_classess_more_than_5_strudent [Easy] [SQL, Pandas]
 |   ├── p_0602_friend_requests_ii_who_has_the_most_friends [Medium] [SQL]
-|   ├── p_0607_sales_person [Easy] [SQL]
+|   ├── p_0607_sales_person [Easy] [SQL, Pandas]
 |   ├── p_0610_triangle_judgement [Easy] [SQL]
 |   ├── p_0619_biggest_single_number [Easy] [SQL]
 |   ├── p_0620_not_boring_movies [Easy] [SQL]
