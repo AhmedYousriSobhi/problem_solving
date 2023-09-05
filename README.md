@@ -35,6 +35,8 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── hackerRank
 |   ├── advancedSelect
 |   |   ├── type_of_triangle [Easy] [SQL]
+|   |   ├── the _pads [Medium] [SQL]
+|   |   ├── occupations [Medium] [SQL]
 |   ├── basicSelect
 |   |   ├── employee_names [Easy] [SQL]
 |   |   ├── employee_salaries [Easy] [SQL]
@@ -79,12 +81,12 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_0602_friend_requests_ii_who_has_the_most_friends [Medium] [SQL]
 |   ├── p_0607_sales_person [Easy] [SQL, Pandas]
 |   ├── p_0610_triangle_judgement [Easy] [SQL]
-|   ├── p_0619_biggest_single_number [Easy] [SQL]
-|   ├── p_0620_not_boring_movies [Easy] [SQL]
+|   ├── p_0619_biggest_single_number [Easy] [SQL, Pandas]
+|   ├── p_0620_not_boring_movies [Easy] [SQL, Pandas]
 |   ├── p_0627_swap_salary [Easy] [SQL]
 |   ├── p_0626_exchange_seats [Medium] [SQL]
 |   ├── p_1045_customers_who_bought_all_products [Medium] [SQL]
-|   ├── p_1050_actors_and_directors _who_cooperated_at_least_three_times [Easy] [SQL]
+|   ├── p_1050_actors_and_directors _who_cooperated_at_least_three_times [Easy] [SQL, Pandas]
 |   ├── p_1068_product_sales_analysis_i [Easy] [SQL]
 |   ├── p_1070_product_sales_analysis_iii [Medium] [SQL]
 |   ├── p_1075_project_employees_i [Easy] [SQL]
@@ -136,7 +138,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 ### SQL
 - GROUP_CONCAT : leetCode [1484]
 - REGEXP : leetCode [1517], hackerrank [weather_observation_station_6]
-- ROW_NUMBER / OVER Cluase: leetCode [1174]
+- ROW_NUMBER / OVER Cluase: leetCode [1174], hackerrank [advancedSelect->Occupations]
 - LAG / LEAD : leetCode [180, 626]
 - FIRST_VALUE : leetCode [1164]
 - COALESCE : leetCode [1164]
@@ -148,7 +150,8 @@ The repository is organized into folders, with each folder corresponding to a sp
 - Special Filter Condition: leetCode [585]
 - Convert columns to rows using UNION: leetCode [1795]
 - RIGHT/SUBSTR: hackerrank [weather_observation_station_7]
-
+- Pivot Table: [advancedSelect->Occupations]
+  
 <a name="Contributing"></a>
 ## Contributing
 While this repository primarily showcases my own solutions, I'm open to collaboration and learning from others. If you have a more optimal solution to any of the problems or want to add problems from different domains, feel free to open a pull request. Constructive feedback is always welcome!
