@@ -1,5 +1,5 @@
 # HACKER RANK
-## PRoblem: The PADS
+## PRoblem: Occupations
 Class: Medium
 
 Source: https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
