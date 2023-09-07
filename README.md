@@ -38,6 +38,10 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   ├── the _pads [Medium] [SQL]
 |   |   ├── occupations [Medium] [SQL]
 |   |   ├── binary_tree_nodes [Medium] [SQL]
+|   ├── aggregation
+|   |   ├── revising_aggregations_the_count_function [Easy] [SQL]
+|   |   ├── revising_aggregations_the_sum_function [Easy] [SQL]
+|   |   ├── revising_aggregation_averages [Easy] [SQL]
 |   ├── basicSelect
 |   |   ├── employee_names [Easy] [SQL]
 |   |   ├── employee_salaries [Easy] [SQL]
@@ -102,7 +106,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_1204_last_person_to_fit_in_the_bus [Medium] [SQL]
 |   ├── p_1211_queries_quality_and_percentage [Easy] [SQL]
 |   ├── p_1251_average_selling_price [Easy] [SQL]
-|   ├── p_1280_students_and_examinations [Easy] [SQL]
+|   ├── p_1280_students_and_examinations [Easy] [SQL, Pandas]
 |   ├── p_1321_restaurant_growth [Medium] [SQL]
 |   ├── p_1327_list_the_products_ordered_in_a_period [Easy] [SQL]
 |   ├── p_1341_movie_rating [Medium] [SQL]
