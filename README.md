@@ -38,6 +38,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   ├── the _pads [Medium] [SQL]
 |   |   ├── occupations [Medium] [SQL]
 |   |   ├── binary_tree_nodes [Medium] [SQL]
+|   |   ├── new_companies [Medium] [SQL]
 |   ├── aggregation
 |   |   ├── revising_aggregations_the_count_function [Easy] [SQL]
 |   |   ├── revising_aggregations_the_sum_function [Easy] [SQL]
@@ -110,7 +111,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_1321_restaurant_growth [Medium] [SQL]
 |   ├── p_1327_list_the_products_ordered_in_a_period [Easy] [SQL]
 |   ├── p_1341_movie_rating [Medium] [SQL]
-|   ├── p_1378_replace_employee_iD_with_the_unique_identifier [Easy] [SQL]
+|   ├── p_1378_replace_employee_iD_with_the_unique_identifier [Easy] [SQL, Pandas]
 |   ├── p_1407_top_travellers [Easy] [SQL]
 |   ├── p_1484_group_sold_products_by_the_date [Easy] [SQL]
 |   ├── p_1517_find_users_with_valid_e_mails [Easy] [SQL]
