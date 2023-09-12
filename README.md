@@ -40,9 +40,13 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   ├── binary_tree_nodes [Medium] [SQL]
 |   |   ├── new_companies [Medium] [SQL]
 |   ├── aggregation
+|   |   ├── average_population [Easy] [SQL]
+|   |   ├── japan_population [Easy] [SQL]
+|   |   ├── population_density_difference [Easy] [SQL]
 |   |   ├── revising_aggregations_the_count_function [Easy] [SQL]
 |   |   ├── revising_aggregations_the_sum_function [Easy] [SQL]
 |   |   ├── revising_aggregation_averages [Easy] [SQL]
+|   |   ├── the_blunder [Easy] [SQL]
 |   ├── basicSelect
 |   |   ├── employee_names [Easy] [SQL]
 |   |   ├── employee_salaries [Easy] [SQL]
@@ -65,6 +69,7 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   ├── weather_observation_station_11 [Easy] [SQL]
 |   |   ├── weather_observation_station_12 [Easy] [SQL]
 ├── leetCode
+|   ├── p_0001_two_sum [Easy] [Python]
 |   ├── p_0175_combine_two_tables [Easy] [SQL]
 |   ├── p_0176_second_highest_salary [Medium] [SQL]
 |   ├── p_0180_consecutive_numbers [Medium] [SQL]
