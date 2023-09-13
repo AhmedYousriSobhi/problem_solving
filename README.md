@@ -47,6 +47,8 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   ├── revising_aggregations_the_sum_function [Easy] [SQL]
 |   |   ├── revising_aggregation_averages [Easy] [SQL]
 |   |   ├── the_blunder [Easy] [SQL]
+|   |   ├── top_earners [Easy] [SQL]
+|   |   ├── weather_observation_station_2 [Easy] [SQL]
 |   ├── basicSelect
 |   |   ├── employee_names [Easy] [SQL]
 |   |   ├── employee_salaries [Easy] [SQL]
