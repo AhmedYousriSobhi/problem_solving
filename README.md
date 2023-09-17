@@ -53,6 +53,17 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   |   ├── the_blunder [Easy] [SQL]
 |   |   |   ├── top_earners [Easy] [SQL]
 |   |   |   ├── weather_observation_station_2 [Easy] [SQL]
+|   |   |   ├── weather_observation_station_13 [Easy] [SQL]
+|   |   |   ├── weather_observation_station_14 [Easy] [SQL]
+|   |   |   ├── weather_observation_station_15 [Easy] [SQL]
+|   |   |   ├── weather_observation_station_16 [Easy] [SQL]
+|   |   |   ├── weather_observation_station_17 [Easy] [SQL]
+|   |   |   ├── weather_observation_station_18 [Medium] [SQL]
+|   |   |   ├── weather_observation_station_19 [Medium] [SQL]
+|   |   |   ├── weather_observation_station_20 [Medium] [SQL]
+|   |   ├── basicJoin
+|   |   |   ├── the_reporter [Medium] [SQL]
+|   |   |   ├── top_competitors [Medium] [SQL]
 |   |   ├── basicSelect
 |   |   |   ├── employee_names [Easy] [SQL]
 |   |   |   ├── employee_salaries [Easy] [SQL]
@@ -167,8 +178,10 @@ The repository is organized into folders, with each folder corresponding to a sp
 - Special Filter Condition: leetCode [585]
 - Convert columns to rows using UNION: leetCode [1795]
 - RIGHT/SUBSTR: hackerrank [weather_observation_station_7]
-- Pivot Table: [advancedSelect->Occupations]
-  
+- Pivot Table: hackerrank [advancedSelect->Occupations]
+- Median Calculation: hackerrank [aggregation -> weather_observation_station_20]
+- Join on Condition: hackerrank [basicJoin -> the_reporter]
+
 <a name="Contributing"></a>
 ## Contributing
 While this repository primarily showcases my own solutions, I'm open to collaboration and learning from others. If you have a more optimal solution to any of the problems or want to add problems from different domains, feel free to open a pull request. Constructive feedback is always welcome!
