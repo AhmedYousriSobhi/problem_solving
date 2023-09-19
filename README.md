@@ -35,7 +35,13 @@ The repository is organized into folders, with each folder corresponding to a sp
 ├── hackerRank
 |   ├── algorithms
 |   |   ├── warmup
+|   |   |   ├── a_very_big_sum [Easy] [Python]
 |   |   |   ├── compare_the_triplets [Easy] [Python]
+|   |   |   ├── mini_max_sum [Easy] [Python]
+|   |   |   ├── plus_minus [Easy] [Python]
+|   |   |   ├── simple_array_sum [Easy] [Python]
+|   |   |   ├── solve_me_first [Easy] [Python]
+|   |   |   ├── staircase [Easy] [Python]
 |   ├── SQL
 |   |   ├── advancedSelect
 |   |   |   ├── type_of_triangle [Easy] [SQL]
