@@ -93,6 +93,8 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   |   ├── weather_observation_station_12 [Easy] [SQL]
 ├── leetCode
 |   ├── p_0001_two_sum [Easy] [Python]
+|   ├── p_0009_palindrome_number [Easy] [Python]
+|   ├── p_0020_valid_parentheses [Easy] [Python, Java]
 |   ├── p_0175_combine_two_tables [Easy] [SQL]
 |   ├── p_0176_second_highest_salary [Medium] [SQL]
 |   ├── p_0180_consecutive_numbers [Medium] [SQL]
