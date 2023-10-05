@@ -1,9 +1,13 @@
 # Problem Solving
 Welcome to my Problem Solving repository! In this repository, you'll find a collection of problems I've solved using various programming languages. Each problem has its own folder containing the problem statement, input/output samples, and my solution.
 
-## Table of Contents
+<div id="header" align='center'>
+  <img src="https://media.giphy.com/media/8FrfWzEUm73hTBK29e/giphy.gif" width="300"/>
+</div>
+
+## Table ofContents
 - [Problem Solving](#problem-solving)
-  - [Table of Contents](#table-of-contents)
+  - [Table ofContents](#table-ofcontents)
   - [About](#about)
   - [Languages](#languages)
   - [Structure](#structure)
@@ -12,22 +16,32 @@ Welcome to my Problem Solving repository! In this repository, you'll find a coll
   - [Contributing](#contributing)
   - [License](#license)
   
-<a name="about"></a>
 ## About
 This repository serves as a showcase of my problem-solving skills. I'm passionate about honing my algorithmic thinking and coding abilities, and I enjoy tackling challenges from different domains. You'll find problems ranging from data structures and algorithms to real-world coding challenges.
 
-<a name="Languages"></a>
 ## Languages
 I believe in being versatile, which is why I've solved problems using various programming languages, including but not limited to:
 
-    Python
-    SQL
-    Java
-    C++
+
+<div>
+  <a href="https://www.python.org/"> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <a href="https://www.java.com/en/"> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <a href="https://www.mysql.com/"></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <a href="https://mariadb.org/"></a>
+  <img src="https://seekvectorlogo.net/wp-content/uploads/2020/02/mariadb-vector-logo.png" title="mariadb"  alt="mariadb" width="40" height="40"/>&nbsp;
+  <a href="https://www.postgresql.org/"></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+  <a href="https://www.sqlite.org/index.html"></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
+</div>
 
 I enjoy exploring the nuances of different languages and adapting my solutions accordingly.
 
-<a name='Structure'></a>
 ## Structure
 The repository is organized into folders, with each folder corresponding to a specific problem. Here's a typical structure:
 
@@ -167,9 +181,12 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_1978_employees_whose_manager_left_the_company [Easy] [SQL]
 |   ├── p_2082_the_number_of_rich_customers [Easy] [SQL]
 |   ├── p_2356_number_of_unique_subjects_taught_by_each_teacher [Easy] [SQL]
+|   ├── p_2877_create_a_dataframe_from_list [Easy] [Pandas]
+|   ├── p_2878_get_the_size_of_dataframe [Easy] [Pandas]
+|   ├── p_2879_display_the_first_three_rows [Easy] [Pandas]
+|   ├── p_2880_select_data [Easy] [Pandas]
 └── ...
 ```
-<a name="Knowledge"></a>
 ## Knowledge
 ### SQL
 - GROUP_CONCAT : leetCode [1484]
@@ -190,11 +207,9 @@ The repository is organized into folders, with each folder corresponding to a sp
 - Median Calculation: hackerrank [aggregation -> weather_observation_station_20]
 - Join on Condition: hackerrank [basicJoin -> the_reporter]
 
-<a name="Contributing"></a>
 ## Contributing
 While this repository primarily showcases my own solutions, I'm open to collaboration and learning from others. If you have a more optimal solution to any of the problems or want to add problems from different domains, feel free to open a pull request. Constructive feedback is always welcome!
 
-<a name='License'></a>
 ## License
 This repository is licensed under the MIT License, which means you're free to use the code here for your own learning and projects. However, please note that the problem statements themselves might have their own usage terms.
 
