@@ -45,6 +45,9 @@ I enjoy exploring the nuances of different languages and adapting my solutions a
 ## Structure
 The repository is organized into folders, with each folder corresponding to a specific problem. Here's a typical structure:
 
+<details>
+  <summary>HackerRank</summary>
+
 ```bash
 ├── hackerRank
 |   ├── algorithms
@@ -105,6 +108,13 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   |   |   ├── weather_observation_station_10 [Easy] [SQL]
 |   |   |   ├── weather_observation_station_11 [Easy] [SQL]
 |   |   |   ├── weather_observation_station_12 [Easy] [SQL]
+```
+</details>
+
+<details>
+  <summary>LeetCode</summary>
+
+```
 ├── leetCode
 |   ├── p_0001_two_sum [Easy] [Python]
 |   ├── p_0009_palindrome_number [Easy] [Python]
@@ -185,8 +195,12 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_2878_get_the_size_of_dataframe [Easy] [Pandas]
 |   ├── p_2879_display_the_first_three_rows [Easy] [Pandas]
 |   ├── p_2880_select_data [Easy] [Pandas]
+|   ├── p_2881_create_a_new_column [Easy] [Pandas]
+|   ├── p_2882_drop_duplicate_rows [Easy] [Pandas]
 └── ...
 ```
+</details>
+
 ## Knowledge
 ### SQL
 |Topic|Problem|
