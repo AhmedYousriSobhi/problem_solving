@@ -189,23 +189,25 @@ The repository is organized into folders, with each folder corresponding to a sp
 ```
 ## Knowledge
 ### SQL
-- GROUP_CONCAT : leetCode [1484]
-- REGEXP : leetCode [1517], hackerrank [weather_observation_station_6]
-- ROW_NUMBER / OVER Cluase: leetCode [1174], hackerrank [advancedSelect->Occupations]
-- LAG / LEAD : leetCode [180, 626]
-- FIRST_VALUE : leetCode [1164]
-- COALESCE : leetCode [1164]
-- OVER : leetCode [1204, 1321]
-- Weighted_sum "Calculation of moving average" : leetCode [1204, 1321]
-- UNION : leetCode [602, 1341, 1907]
-- FIRST_VALUE: leetCode [1341]
-- DENSE_RANK: leetCode [184, 185]
-- Special Filter Condition: leetCode [585]
-- Convert columns to rows using UNION: leetCode [1795]
-- RIGHT/SUBSTR: hackerrank [weather_observation_station_7]
-- Pivot Table: hackerrank [advancedSelect->Occupations]
-- Median Calculation: hackerrank [aggregation -> weather_observation_station_20]
-- Join on Condition: hackerrank [basicJoin -> the_reporter]
+|Topic|Problem|
+|--|--|
+|GROUP_CONCAT | leetCode [1484]
+|REGEXP | leetCode [1517], hackerrank [weather_observation_station_6]
+|ROW_NUMBER / OVER Cluase| leetCode [1174], hackerrank [advancedSelect->Occupations]
+|LAG / LEAD | leetCode [180, 626]
+|FIRST_VALUE | leetCode [1164]
+|COALESCE | leetCode [1164]
+|OVER | leetCode [1204, 1321]
+|Weighted_sum "Calculation of moving average" | leetCode [1204, 1321]
+|UNION | leetCode [602, 1341, 1907]
+|FIRST_VALUE| leetCode [1341]
+|DENSE_RANK| leetCode [184, 185]
+|Special Filter Condition| leetCode [585]
+|Convert columns to rows using UNION| leetCode [1795]
+|RIGHT/SUBSTR| hackerrank [weather_observation_station_7]
+|Pivot Table| hackerrank [advancedSelect->Occupations]
+|Median Calculation| hackerrank [aggregation -> weather_observation_station_20]
+|Join on Condition| hackerrank [basicJoin -> the_reporter]
 
 ## Contributing
 While this repository primarily showcases my own solutions, I'm open to collaboration and learning from others. If you have a more optimal solution to any of the problems or want to add problems from different domains, feel free to open a pull request. Constructive feedback is always welcome!
