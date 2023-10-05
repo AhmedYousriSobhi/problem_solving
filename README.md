@@ -1,8 +1,8 @@
 # Problem Solving
 Welcome to my Problem Solving repository! In this repository, you'll find a collection of problems I've solved using various programming languages. Each problem has its own folder containing the problem statement, input/output samples, and my solution.
 
-<div id="header" align='center'>
-  <img src="https://media.giphy.com/media/8FrfWzEUm73hTBK29e/giphy.gif" width="300"/>
+<div id="header">
+  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="300"/>
 </div>
 
 ## Table ofContents
