@@ -197,6 +197,11 @@ The repository is organized into folders, with each folder corresponding to a sp
 |   ├── p_2880_select_data [Easy] [Pandas]
 |   ├── p_2881_create_a_new_column [Easy] [Pandas]
 |   ├── p_2882_drop_duplicate_rows [Easy] [Pandas]
+|   ├── p_2883_drop_missing_data [Easy] [Pandas]
+|   ├── p_2884_modify_columns [Easy] [Pandas]
+|   ├── p_2885_renamne_columns [Easy] [Pandas]
+|   ├── p_2886_change_data_type [Easy] [Pandas]
+|   ├── p_2887_fill_missing_data [Easy] [Pandas]
 └── ...
 ```
 </details>
